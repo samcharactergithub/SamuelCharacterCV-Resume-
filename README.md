@@ -45,7 +45,7 @@ Given the state of affairs globally, it appears to me that the transition to a n
 
 My two pronged approach, onboarding new people from my sphere of influence and refining and expanding my own knowledge buy actively participating in a project or business.  The best way to achieve this is to obtain certifications in Linux, Docker and Hyperledger administration.  Hyperledger is shaping up to be the bridge between the centralized and the decentralized worlds.  The Cardano project in my opinion, has the greatest chance of representing the decentralized world.  Which is why I am actively running a Cardano stake pool and working toward becoming a Cardano Ambassador.
 
-[Top](./README.md#SamuelCharacter'sRésumé)
+[Top](./README.md#samuelcharacter'srésumé)
 
 
 # Experience
