@@ -1,5 +1,5 @@
 
-#résumé
+# résumé
 # Samuel Character's Résumé
 ![100272794](https://user-images.githubusercontent.com/100272794/155288451-a30468ad-5218-46cd-8ab7-b601282cc1e0.jpg)
 ## Samuel Character
