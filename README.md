@@ -8,8 +8,7 @@
 
 
 Table Of Contents: 
-  [Current](./README.md#current) | [Skills](./README.md#skills) | [Education](./README.md#education) |
-| [Experience](./README.md#experience) 
+  [Current](./README.md#current) | [Skills](./README.md#skills) | [Education](./README.md#education) | [Experience](./README.md#experience) 
 
 
 ## Entrepreneur | Developer | Designer | Futurist
