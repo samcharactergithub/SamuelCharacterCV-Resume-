@@ -199,11 +199,8 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 
 ## College
 
-> ### FIDM Orange County 1998 - 1999
-> - Bachelor’s - Major: Graphic Design
-
-> ### Savannah College of Art and Design 1993 - 1997
-> - Bachelor of Fine Arts - Major: Illustration
+> ### University of North Texas 2015 - 2020
+> - Bachelor’s - Major: Computer Science
 
 
 
