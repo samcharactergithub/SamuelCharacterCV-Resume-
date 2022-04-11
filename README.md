@@ -50,8 +50,8 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 # Experience
 
 
-> ### Wyoming Select Properties (WSP)
-> *2016 - 2018*
+> ### National Gneneral Insurance
+> *2016 - 2019*
 >
 > **Marketing Manager / Sales Associate**
 >
@@ -64,49 +64,10 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 > -   Coordinated photo shoots, aerial drone photography.
 
 
-> ### Rocky Mountain Marketing (RMM)
-> *2011 - 2016*
+
+> ### Freelancer
 >
-> **Owner Operator**
->
-> -   Purchased RMM in 2011
-> -   Rebuilt & re-branded business presence; LLC, accounting, marketing.
-> -   Developed an order management system.
-> -   Managed day to day business operation.
-> -   Sold RMM in 2016.
-
-
-> ### Heath Robertson Construction
-> *2009 - 2011*
->
-> **Owner Builder**
->
-> - I took a 2-year hiatus from business and put my high school and college work knowledge in construction to use.  The incredibly low building costs after the 2008 financial crisis provided a unique opportunity for me to build my own home.
-
-
-> ### HDR, LLC
->
-> *2006 - 2009*
->
-> **Owner Operator**
-> -   Marketing & business consultation.
-> -   Brand development.
-> -   Graphic design.
-> -   Managed cloud based IT solutions (Google Apps now G Suite).
-
-
-> ### Drive Design & Copy Center / Drive Signs
-> *2002 - 2006*
-> 
-> **Owner Operator**
-> -   Established business presences; LLC and accounting.
-> -   Brand development.
-> -   Managed day to day business operation.
-
-
-> ### Patagonia - Lost Arrow Corporation 
->
-> *1999 - 2002*
+> *2015 - 2016*
 >
 > **Junior Graphic Designer**
 > -   Catalog Team Support
