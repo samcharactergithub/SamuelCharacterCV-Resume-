@@ -184,17 +184,6 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 > ### O'Reilly School of Technology
 > - [Python 1: Beginning Python (4 CEUs)](https://drive.google.com/file/d/0B8T1aKIcGCKbcUJYMGZoN0l4T2M/view)
 
-> ### Wyoming Business Alliance 
-> - [2006 Leadership Wyoming](https://drive.google.com/file/d/1-cMMfwjZnu44FPbRX0e5yP1v14kRGElW/view)
-
-> ### Wyoming SBDC
-> - [NexLevel Business Development](https://drive.google.com/file/d/1rbSf2f2dnTRjc0bbXQRxTBq_PuvEwSxn/view?usp=sharing) 
-
-> ### Wyoming Real Estate Commission
-> - Sales Associate - (Nonactive)
-
-> ### Wyoming State Board of Outfitters & Professional Guides
-> - Professional Hunting Guide (Nonactive)
 
 
 ## College
