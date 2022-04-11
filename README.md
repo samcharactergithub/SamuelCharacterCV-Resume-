@@ -98,26 +98,6 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 ## Code
 
 
-> ## Eat The Blocks - DApp 30
-> -   [DApp 30 Live Site](https://th-dapp30.web.app/) - 30 Smart Contract in 30 Days [[Code](https://github.com/heathdrobertson/dapp30)]
-
-
-> ##  Repos
-> - [Python](https://github.com/heathdrobertson/python)
-> - [JavaScript](https://github.com/heathdrobertson/javascript)
-> - [Rust](https://github.com/heathdrobertson/rust)
-> - [Haskell](https://github.com/heathdrobertson/haskell)
-> - [Bash](https://github.com/heathdrobertson/bash)
-> - [Nix](https://github.com/heathdrobertson/nix)
-> - [Regex](https://github.com/heathdrobertson/regex)
-
-
-## Design
-[Brand & Web](./assets/md/design.md)
-
-
-
-
 # Education
 
 ## Licenses & Certifications
