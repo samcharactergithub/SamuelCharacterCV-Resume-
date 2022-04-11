@@ -49,7 +49,7 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 # Experience
 
 
-> ### National Gneneral Insurance
+> ### National General Insurance
 > *2016 - 2019*
 >
 > **Marketing Manager / Sales Associate**
