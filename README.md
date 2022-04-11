@@ -14,7 +14,7 @@ Table Of Contents:
 ## Entrepreneur | Developer | Designer | Futurist
 
 
-I was born and raised in New Orleans, LA where my family (me and my mother) lost everything in 2005 to Hurricane Katrina. I've always been fascinated by technology and struggled to straddle the divide that seems to have developed between the western heritage that I grew up in and the future led by technological advancements. With an innate curiosity to understand how the world functions, I've been drawn to complex systems science, macroeconomics and monetary policy. It seems somewhat fortuitous that Wyoming has taken the lead in blockchain which combines my most captivating curiosities.
+I was born and raised in New Orleans, LA where my family (me and my mother) lost everything in 2005 to Hurricane Katrina. I've always been fascinated by technology and struggled to straddle the divide that seems to have developed between the western heritage that I grew up in and the future led by technological advancements. With an innate curiosity to understand how the world functions, I've been drawn to establishing business presence, marketing, and other complex systems like macroeconomics and monetary policy.
 
 With 7+ years of local and regional experience in, business, marketing, graphic design, web design, I see the vast opportunities in blockchain, digital assets and decentralization and am eager to take part. I have been accumulating knowledge as rapidly as possible around blockchain, code, Linux system administration, DApp development, and DeFi. I truly believe blockchain and decentralized technologies are the new frontier.
 
