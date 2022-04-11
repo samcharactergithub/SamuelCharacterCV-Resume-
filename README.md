@@ -28,8 +28,8 @@ Thank you, Sam <3
 
 # Current
 
-> ## ToiletHill.io
-> **Blockchain & Digital Asset Adoption**
+> ## Freelancing
+> ** Working on a Blockchain & Digital Asset Adoption Platform**
 > - Instructional Blog & Video Content Creation
 
 > ## TetonBlocks.io
