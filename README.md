@@ -32,7 +32,7 @@ Thank you, Sam <3
 > ** Working on a Blockchain & Digital Asset Adoption Platform**
 > - Instructional Blog & Video Content Creation
 
-> ## TetonBlocks.io
+> ## SIDE PROJECTS:
 > **Hosting & Staking**
 > - Cardano Stake Pool Operator
 > - IPFS Node Hosting
