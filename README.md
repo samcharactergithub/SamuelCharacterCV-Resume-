@@ -9,7 +9,7 @@
 
 Table Of Contents: 
   [Current](./README.md#current) | [Skills](./README.md#skills) | [Education](./README.md#education) |
-| [Experience](./README.md#experience) | [Portfolio](./README.md#portfolio) 
+| [Experience](./README.md#experience) 
 
 
 ## Entrepreneur | Developer | Designer | Futurist
@@ -90,12 +90,6 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 
 >  ## Design
 > - ***Software*** - Adobe Illustrator, Photoshop, InDesign,  Squarespace, G Suite, Premiere Pro, After Effects
-
-
-
-
-# Portfolio
-## Code
 
 
 # Education
