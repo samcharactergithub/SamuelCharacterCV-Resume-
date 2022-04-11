@@ -20,7 +20,7 @@ With 7+ years of local and regional experience in, business, marketing, graphic 
 
 On a personal note, I have a deep love and appreciation for humans, realtionships and outdoors. I spend as much time as I can; mountain biking, rock climbing, skiing and hiking with my family.
 
-If you'rein need of a motivated person with my skill set, for employment, partnership or simply networking, please contact me.
+If you're in need of a motivated person with my skill set, for employment, partnership or simply networking, please contact me.
 
 Thank you, Sam <3
 
