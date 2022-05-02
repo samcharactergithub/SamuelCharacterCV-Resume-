@@ -11,7 +11,7 @@ Table Of Contents:
   [Current](./README.md#current) | [Skills](./README.md#skills) | [Education](./README.md#education) | [Experience](./README.md#experience) 
 
 
-## Entrepreneur | Developer | Designer | Futurist
+## Entrepreneur | Developer | Designer | Communicator
 
 
 I was born and raised in New Orleans, LA where my family (me and my mother) lost everything in 2005 to Hurricane Katrina. I've always been fascinated by technology and struggled to straddle the divide that seems to have developed between the southern heritage that I grew up in and the future led by technological advancements. With an innate curiosity to understand how the world functions, I've been drawn to establishing business presence, marketing, and other complex systems like macroeconomics and monetary policy.
