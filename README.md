@@ -53,18 +53,18 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 > *2019 - Current*
 >
 > **Freelancer** -->
-> Git
-> Wireframing
-> DNS management
-> Testing, debugging
-> Front-end frameworks
-> Responsive design
-> User experience
-> User interface
-> DOM
-> APIs
-> Jest
-> Enzyme
+> Git,
+> Wireframing,
+> DNS management,
+> Testing, debugging,
+> Front-end frameworks,
+> Responsive design,
+> User experience,
+> User interface,
+> DOM,
+> APIs,
+> Jest,
+> Enzyme,
 
 
 
@@ -73,10 +73,10 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 > *2015 - 2019*
 >
 > **Medicare Sales** --->
-> Strategize and implement new sales plans for 100+ clients over 4 years.
-> Hire, train and supervise new sales associates, often 5+ new hires at a time.
-> Report directly to regional sales director to manage a sales portfolio of over 300 national and international clients.
-> Received the Medicare Sales Representative of the Year, selected from a list of 50 candidates.
+> Strategize and implement new sales plans for 100+ clients over 4 years.,
+> Hire, train and supervise new sales associates, often 5+ new hires at a time.,
+> Report directly to regional sales director to manage a sales portfolio of over 300 national and international clients.,
+> Received the Medicare Sales Representative of the Year, selected from a list of 50 candidates.,
 
 
 
