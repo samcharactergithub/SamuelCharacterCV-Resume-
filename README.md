@@ -64,7 +64,7 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 > DOM,
 > APIs,
 > Jest,
-> Enzyme,
+> Enzyme.
 
 
 
@@ -76,7 +76,7 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 > Strategize and implement new sales plans for 100+ clients over 4 years.,
 > Hire, train and supervise new sales associates, often 5+ new hires at a time.,
 > Report directly to regional sales director to manage a sales portfolio of over 300 national and international clients.,
-> Received the Medicare Sales Representative of the Year, selected from a list of 50 candidates.,
+> Received the Medicare Sales Representative of the Year, selected from a list of 50 candidates.
 
 
 
