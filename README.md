@@ -52,7 +52,7 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 > ### Freelancer (Blockchain)
 > *2019 - Current*
 >
-> **Freelancer**
+> **Freelancer** -->
 > Git
 > Wireframing
 > DNS management
@@ -72,7 +72,7 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 >
 > *2015 - 2019*
 >
-> **Medicare Sales**
+> **Medicare Sales** --->
 > Strategize and implement new sales plans for 100+ clients over 4 years.
 > Hire, train and supervise new sales associates, often 5+ new hires at a time.
 > Report directly to regional sales director to manage a sales portfolio of over 300 national and international clients.
