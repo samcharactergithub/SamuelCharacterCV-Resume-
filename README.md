@@ -49,28 +49,34 @@ My two pronged approach, onboarding new people from my sphere of influence and r
 # Experience
 
 
+> ### Freelancer (Blockchain)
+> *2019 - Current*
+>
+> **Freelancer**
+> Git
+> Wireframing
+> DNS management
+> Testing, debugging
+> Front-end frameworks
+> Responsive design
+> User experience
+> User interface
+> DOM
+> APIs
+> Jest
+> Enzyme
+
+
+
 > ### National General Insurance
-> *2016 - 2019*
 >
-> **Marketing Manager / Sales Associate**
+> *2015 - 2019*
 >
-> -   Established business presence; LLC, accounting, marketing.
-> -   Developed and built the brand, logo, website.
-> -   Created promotional information & content.
-> -   Coordinated multiple marketing strategies.
-> -   Managing budgets for marketing campaigns.
-> -   Designed and implemented social media strategies. 
-> -   Coordinated photo shoots, aerial drone photography.
-
-
-
-> ### Freelancer
->
-> *2015 - 2016*
->
-> **Junior Graphic Designer**
-> -   Catalog Team Support
-> -   Web Team Support
+> **Medicare Sales**
+> Strategize and implement new sales plans for 100+ clients over 4 years.
+> Hire, train and supervise new sales associates, often 5+ new hires at a time.
+> Report directly to regional sales director to manage a sales portfolio of over 300 national and international clients.
+> Received the Medicare Sales Representative of the Year, selected from a list of 50 candidates.
 
 
 
